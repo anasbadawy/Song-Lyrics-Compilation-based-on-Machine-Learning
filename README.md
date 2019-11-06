@@ -7,3 +7,4 @@ creating a new song lyrics based on Machine learning (text mining , text summari
 creating new song lyrics as a remix for various of singers based on chosen singer by the user. Used dataset composed of 55,000 songs for more than 150 singers. Then text summarization for all of songs for each singer is done, then getting the best similarity for the outputted song of the chosen singer with the other created songs using sentence similarity. To create a remix song.
 
 - The project has a simple User Interface.  
+- kaggle's dataset link : https://www.kaggle.com/mousehead/songlyrics
